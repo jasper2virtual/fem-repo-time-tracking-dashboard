@@ -17,7 +17,7 @@
     </div>
 </template>
 <script>
-import recordType from '/src/assets/RecordType.json'
+import recordType from '/src/assets/recordType.json'
 export default {
     props: {
         typeId: {
