@@ -7,7 +7,7 @@
             class="mt-12 bg-app-neutral-darkBlue duration-1000 transition-colors hover:cursor-pointer hover:bg-app-neutral-desaturatedBlue hover:duration-100 rounded-2xl p-8 flex flex-col gap-4 grow justify-center">
             <div class="flex items-center justify-between">
                 <div class="text-white font-medium text-lg">{{ title }}</div>
-                <button class="daisy-btn daisy-btn-ghost hover:brightness-200"><img src="/src/assets/images/icon-ellipsis.svg" alt=""></button>
+                <button class="daisy-btn daisy-btn-ghost hover:brightness-200" title="more detail"><img src="/src/assets/images/icon-ellipsis.svg" alt=""></button>
             </div>
             <div class="flex items-center justify-between desktop:flex-col desktop:items-start">
                 <div class=" font-light text-[calc(32rem/16)] text-white desktop:text-[calc(56rem/16)]">{{ currentValue }}hrs</div>
