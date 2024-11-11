@@ -1,0 +1,9 @@
+[
+    {"id":"work","title":"Work","color":"softOrange"},
+    {"id":"play","title":"Play","color":"softBlue"},
+    {"id":"study","title":"Study","color":"lightRed"},
+    {"id":"exercise","title":"Exercise","color":"limeGreen"},
+    {"id":"social","title":"Social","color":"violet"},
+    {"id":"self-care","title":"Self Care","color":"yellow"}
+]
+
